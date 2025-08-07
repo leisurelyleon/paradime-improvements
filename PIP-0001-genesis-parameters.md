@@ -17,7 +17,7 @@ The genesis configuration lays the foundation for Paradime’s monetary policy. 
 - **Governance-ready**: Early inclusion of minting schedule parameters (e.g., block number or timestamp-based releases) allows PIP-driven adjustments post-launch.
 
 ## Specification
-1. **Genesis JSON Schema**  
+**Genesis JSON Schema**  
    ```jsonc
    {
      "maxSupply": u128,
